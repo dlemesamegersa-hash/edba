@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Grade 9 Learning",
+    "slug": "grade9-learning",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.example.grade9learning",
+      "allowBackup": false
+    },
+    "plugins": [
+      "expo-secure-store"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "contentVersion": "0.0.1",
+  "lastUpdated": "2026-11-25T00:00:00Z",
+  "subjects": [
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "description": "Placeholder subject",
+      "chapters": [
+        {
+          "id": "chapter-01",
+          "title": "Chapter 1 (placeholder)",
+          "files": [
+            {
+              "id": "math-ch1-notes",
+              "name": "Chapter 1 Notes",
+              "type": "pdf",
+              "path": "subjects/mathematics/chapter-01/notes.pdf",
+              "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/subjects/mathematics/chapter-01/notes.pdf",
+              "version": "1.0",
+              "size": 0,
+              "sha256": "REPLACE_WITH_REAL_SHA256",
+              "description": "PLACEHOLDER: replace url/size/sha256 (or just run tools/generate-manifest.js)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

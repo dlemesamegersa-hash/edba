@@ -1,0 +1,1 @@
+Put your real PDF here as notes.pdf, then run: node tools/generate-manifest.js
